@@ -1,1 +1,4 @@
 # My Scripts
+```
+Discord: DarkMoonHub
+```
